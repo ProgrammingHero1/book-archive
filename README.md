@@ -1,4 +1,10 @@
 # book-archive
+
+## [Private Repository Link](https://classroom.github.com/a/mOiiFMDY)
+Please Click this link to create your assignment private repo: [https://classroom.github.com/a/mOiiFMDY](https://classroom.github.com/a/mOiiFMDY)
+
+## API Links
+
 ### Book Search
 URL Format: http://openlibrary.org/search.json?q=${searchText}
 
