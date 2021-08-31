@@ -12,9 +12,9 @@ Example: http://openlibrary.org/search.json?q=javascript
 
 
 ### Book cover image url: 
-URL Format: https://covers.openlibrary.org/b/id/{cover_i}.jpg
+URL Format: https://covers.openlibrary.org/b/id/{cover_i}-L.jpg
 
-Example: https://covers.openlibrary.org/b/id/554106.jpg
+Example: https://covers.openlibrary.org/b/id/554106-L.jpg
 
 
 
